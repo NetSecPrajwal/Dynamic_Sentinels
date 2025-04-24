@@ -23,4 +23,13 @@
 
 ## 📦 Project Structure
 
-dynamic_sentinel_tool/ ├── src/ │ ├── main.py # Entry point │ ├── static_scan.py # Static analysis module │ ├── dynamic_scan.py # Dynamic analysis module │ ├── report.py # Report generation │ └── pycache/ # Compiled Python cache ├── sandbox_logs/ # Output reports and logs ├── requirements.txt # Python dependencies └── README.md # You are here!
+dynamic_sentinel_tool/
+├── src/
+│   ├── main.py
+│   ├── static_scan.py
+│   ├── dynamic_scan.py
+│   ├── report.py
+├── sandbox_logs/
+├── requirements.txt
+└── README.md
+
